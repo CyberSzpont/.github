@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dad64513-b987-4ca5-be25-1da3866a1c2f" alt="CyberSzpont Banner" width="50%" style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.3);" />
-
+  <img src="https://github.com/user-attachments/assets/9e3b309b-655f-48e8-8dcf-14d6e76cef5b" alt="CyberSzpont Banner" width="25%" style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.3);" />
   <br><br>
 
   [![AGH](https://img.shields.io/badge/University-AGH_Krakow-red?style=for-the-badge&logo=school&logoColor=white)](https://www.agh.edu.pl/)
