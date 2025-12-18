@@ -44,8 +44,8 @@
 
 | Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| **[DeepSzpont](LINK_DO_REPO_DEEPSZPONT)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **The Research Platform.**<br>A full-stack web application designed to test human ability to distinguish between AI-generated and authentic videos. |
-| **[deepszpont_data_analysis](LINK_DO_REPO_ANALYSIS)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | **The Analytics Engine.**<br>Scripts, notebooks, and tools used to process raw data from the study, detect outliers (ITU-R BT.500), and visualize findings. |
+| **DeepTest** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **The Research Platform.**<br>A full-stack web application designed to test human ability to distinguish between AI-generated and authentic videos. |
+| **DeepTest_data_analysis** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | **The Analytics Engine.**<br>Scripts, notebooks, and tools used to process raw data from the study, detect outliers (ITU-R BT.500), and visualize findings. |
 
 </div>
 
