@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">🚀 What We Do</h2>
+<h2 align="center"> What We Do</h2>
 
 <p align="center">
   We focus on building scalable solutions for scientific data collection and analysis,<br>
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-| 🎥 **Large-scale Testing** | ☁️ **Cloud Infrastructure** | 📊 **Data Science** |
+|  **Large-scale Testing** |  **Cloud Infrastructure** |  **Data Science** |
 | :---: | :---: | :---: |
 | Developing open-source platforms for behavioral video testing. | Deploying scalable architectures on **Microsoft Azure**. | Advanced statistical analysis and visualization of research data. |
 
@@ -38,7 +38,7 @@
 
 <br>
 
-<h2 align="center">📂 Featured Repositories</h2>
+<h2 align="center"> Featured Repositories</h2>
 
 <div align="center">
 
